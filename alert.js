@@ -1,0 +1,10 @@
+alert ("HELLO YOU ARE BEING DIRECTED ON MY PAGE!");
+let name = "JAN CHRISTOPHER GAMIT";
+        const age ='30';
+        var x, y, z;
+        x=5;
+        y=13;
+        z =x+y;
+        document.getElementById("a").innerHTML=name;
+        document.getElementById("b").innerHTML=age;
+        document.getElementById("c").innerHTML=z;
